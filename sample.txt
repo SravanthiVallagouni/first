@@ -1,2 +1,3 @@
 this is sample.txt
 this is next line
+this is new line
