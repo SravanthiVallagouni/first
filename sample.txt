@@ -2,4 +2,11 @@ this is sample.txt
 this is next line
 
 this is new line
+<<<<<<< HEAD
+
+now this line added
+sample.txt.....
+
+=======
 this is done through github
+>>>>>>> 567a210aa66387a73d7907a08d0e876d20706586
